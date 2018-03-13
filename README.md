@@ -1,2 +1,2 @@
 # eureka-demo
-eureka demo for starter
+eureka demo for starter.
